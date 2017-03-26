@@ -9,7 +9,7 @@ After making sure these files exist in the same folder you can execute the progr
 
 Useful commands to try out in entertainment_center.py:	
 
-print(movie_name.storyline) - prints out the storyline.
-movie_name.show_trailer() - shows chosen movie trailer.
+1) print(movie_name.storyline) - prints out the storyline.
+2) movie_name.show_trailer() - shows chosen movie trailer.
 
 ex. print(nine9.storyline)
